@@ -1,9 +1,9 @@
 Name: YOUR NAME HERE
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date       |      Time      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Update |
+|:-----------|:--------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| April 5    |     9-10pm     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                 I tried to write abstract, efficient code. |
+| January 14 | 1:05 - 1:30 pm | For this part I thought about the general components of what the code should be. I want to create an array which will serve as the nodes for my graph. Then I need to add them to the graph based on whether the next temperature is greater or smaller. Once I have thetable sorted, then I can find the shortest path from the first node to the last node, and return the edges + 1. I am not yet sure how I will divy up the layers of my graph, and that will be the hardest part of this algorithm.  |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
